@@ -15,7 +15,7 @@ Criando um APP simples de cadastro de séries em .NET, feito com acompanhamento 
 ## 🛠 Linguagens:
 
 * .Net
-* MongoDB
+* C#
 
 
 
@@ -24,7 +24,7 @@ Criando um APP simples de cadastro de séries em .NET, feito com acompanhamento 
 ## 🛠 Ferramenta:
 
 * Visual Studio Code
-* MongoDB Atlas
+
 
 
 
